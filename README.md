@@ -1,2 +1,3 @@
 # hello-world
-Birth Certificate at planet GitHub
+
+I am Abhay. Just begun with git and know basic programming.
